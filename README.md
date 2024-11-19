@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @NoobCoderDev
 - 👀 I’m interested in logic building and problem solving.
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on Web development
-- 📫 How to reach me ...
+- 🌱 I’m software developer at softude infotech pvt ltd.
+- 💞️ I’m looking to collaborate on Web development.
+- 📫 How to reach me ... via email : [sonbhurra@gmail.com]
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 NoobCoderDev/NoobCoderDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
